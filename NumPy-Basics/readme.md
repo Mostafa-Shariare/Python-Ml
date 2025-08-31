@@ -2,7 +2,7 @@
 
 
 
-#  Complete NumPy Tutorial in Python – A Beginner-Friendly Guide
+#  Basic NumPy Tutorial in Python – A Beginner-Friendly Guide
 
 NumPy (Numerical Python) is one of the most powerful and widely used libraries in Python for **numerical computing**. It provides support for large, multi-dimensional arrays and matrices, along with a wide collection of mathematical functions to operate on them.
 
